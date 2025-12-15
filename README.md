@@ -65,14 +65,6 @@ Models considered:
 
 ---
 
-## 🚀 Usage (Planned)
-
-### Extract features:
-
-### Train classifier:
-
-### Run notebook:
-Open:
 
 ---
 
@@ -83,8 +75,6 @@ Open:
 
 ---
 
-## 🎯 Purpose
-Built to strengthen astrophysics + ML research skills for PhD applications.
 
 ---
 ---
