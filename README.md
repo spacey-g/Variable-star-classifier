@@ -87,6 +87,25 @@ Open:
 Built to strengthen astrophysics + ML research skills for PhD applications.
 
 ---
+---
+
+## 📸 Example Outputs
+
+### 🔹 Light Curve Grid
+This figure shows the 5 types of variable star light curves used in the dataset:
+- RR Lyrae
+- Cepheid
+- Delta Scuti
+- Eclipsing Binary
+- Rotational Variable
+
+![Light Curve Grid](docs/lc_grid.png)
+
+
+### 🔹 Confusion Matrix
+This shows the performance of the Random Forest classifier after training on extracted features.
+
+![Confusion Matrix](docs/confusion_matrix.png)
 
 ## ✨ Author
 Grace (spacey-g)
